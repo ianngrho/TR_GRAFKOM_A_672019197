@@ -1,6 +1,14 @@
 #include <windows.h>
 #include <gl/glut.h>
 
+/*
+Raditya Airlangga - 672019007
+Muhammad Septian Nugroho - 672019197
+Anindityo Bagas Atha Nurcahyo - 672019206
+Daffa Mahendra Putra - 672019233
+*/
+
+
 void init(void);
 void tampil(void);
 void keyboard(unsigned char, int, int);
